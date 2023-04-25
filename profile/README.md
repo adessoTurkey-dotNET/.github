@@ -2,7 +2,7 @@
 
 This repository contains a collection of .NET projects developed by adesso Turkey. These projects can be used as reference implementations or starting points for your own projects.
 
-* :package: 5,000+ Package downloads. 
+* :package: 3,000+ Package downloads. 
 * :computer: 50+ adessi active in open source. 
 * :office: 150+ commits per month.
 * :octocat: +25 GitHub repositories.
