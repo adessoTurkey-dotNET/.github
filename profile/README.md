@@ -1,4 +1,7 @@
 ## Hey, Welcome to the adessoTurkey - .NET Community 👋 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/8998960/234146468-95324db9-fb27-4274-a0f0-b61c4af1af84.png" alt="banner"/>
+</p>
 
 This organization contains a collection of .NET projects developed by adesso Turkey. These projects can be used as reference implementations or starting points for your own projects.
 
