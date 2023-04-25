@@ -11,7 +11,7 @@ This organization contains a collection of .NET projects developed by adesso Tur
 * :octocat: +25 GitHub repositories.
 
 ## Projects 🪧
-Here's a brief overview of some projects included in this repository:
+Here's a brief overview of some projects included in this organization:
 - [AdsPush](https://github.com/adessoTurkey-dotNET/AdsPush) - A server-side push notification library that fully supports APNS and FCM
 - [Medesso](https://github.com/adessoTurkey-dotNET/Medesso) - A customized library inspired by MediatR library. We develop and use it in line with our needs
 - [LucInANutshell](https://github.com/adessoTurkey-dotNET/LucInANutshell) - The full-text search engine within the scope of the Apache Lucene project
