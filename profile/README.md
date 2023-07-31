@@ -15,6 +15,7 @@ Here's a brief overview of some projects included in this organization:
 - [AdsPush](https://github.com/adessoTurkey-dotNET/AdsPush) - A server-side push notification library that fully supports APNS and FCM
 - [BctSP](https://github.com/adessoTurkey-dotNET/BctSP) - It allows you to call stored procedures from the database by simply creating only the interface and methods signature
 - [Medesso](https://github.com/adessoTurkey-dotNET/Medesso) - A customized library inspired by MediatR library. We develop and use it in line with our needs
+- [AdsDialogKit](https://github.com/adessoTurkey-dotNET/AdsDialogKit) - It allows you to quickly and easily add dialog box features to your applications
 - [LucInANutshell](https://github.com/adessoTurkey-dotNET/LucInANutshell) - The full-text search engine within the scope of the Apache Lucene project
 - [AdsInfoAccessor](https://github.com/adessoTurkey-dotNET/AdsInfoAccessor) - A library that provides single point to get common info in your application pipeline.
 - [NLocalizator](https://github.com/adessoTurkey-dotNET/NLocalizator) - This tool allows you to build a localization structure whose content can be changed at run-time.
