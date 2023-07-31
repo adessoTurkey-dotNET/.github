@@ -41,3 +41,7 @@ We're always happy to hear from other developers 🎉
 - [LinkedIn](https://www.linkedin.com/company/adessoturkey) 
 - [Instagram](https://www.instagram.com/adessoturkey/)
 - [Medium](https://medium.com/adessoturkey)
+
+<p align="right">
+  <img src="https://profile-counter.glitch.me/{adessoTurkey-dotNET}/count.svg" alt="Visitor Count">
+</p>
