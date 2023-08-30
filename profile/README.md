@@ -5,14 +5,14 @@
 
 This organization contains a collection of .NET projects developed by adesso Turkey. These projects can be used as reference implementations or starting points for your own projects.
 
-* :package: 3,000+ Package downloads. 
+* :package: 4,000+ Package downloads. 
 * :computer: 50+ adessi active in open source. 
 * :office: 150+ commits per month.
 * :octocat: +25 GitHub repositories.
 
 ## Projects 🪧
 Here's a brief overview of some projects included in this organization:
-- [AdsPush](https://github.com/adessoTurkey-dotNET/AdsPush) - A server-side push notification library that fully supports APNS and FCM
+- [AdsPush](https://github.com/adessoTurkey-dotNET/AdsPush) - A server-side push notification library that fully supports APNS, FCM and VAPID WebPush
 - [BctSP](https://github.com/adessoTurkey-dotNET/BctSP) - It allows you to call stored procedures from the database by simply creating only the interface and methods signature
 - [Medesso](https://github.com/adessoTurkey-dotNET/Medesso) - A customized library inspired by MediatR library. We develop and use it in line with our needs
 - [AdsDialogKit](https://github.com/adessoTurkey-dotNET/AdsDialogKit) - It allows you to quickly and easily add dialog box features to your applications
